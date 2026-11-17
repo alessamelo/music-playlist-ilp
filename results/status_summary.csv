@@ -1,0 +1,7 @@
+min_duration,max_duration,min_genres,Feasible (not proven optimal),Optimal
+1200,1800,3,1,19
+1200,1800,5,1,19
+1800,2400,3,0,20
+1800,2400,5,0,20
+2400,3000,3,1,19
+2400,3000,5,1,19

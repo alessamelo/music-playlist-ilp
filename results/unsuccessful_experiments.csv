@@ -1,0 +1,9 @@
+experiment_id,user_id,min_duration,max_duration,min_genres,n_candidate_songs,n_available_genres,optimal_preference_score,actual_playlist_duration,actual_genre_count,n_selected_songs,avg_preference_per_song,execution_time,solver_status,pulp_status,is_optimal,has_solution,solution_verified,represented_genres,config
+E1,2617701,1200,1800,3,13931,15,7.127915,1799.0,8,36,0.1979976388888888,61.66250880000007,Feasible (not proven optimal),TimeLimit,False,True,True,rock;pop;electronic_dance;rap_hip_hop;heavy_metal;jazz;blue;blues,"1200-1800 s
+G≥3"
+E2,2617701,1200,1800,5,13931,15,7.161685,1800.0,10,37,0.193559054054054,61.47459739999613,Feasible (not proven optimal),TimeLimit,False,True,True,rock;pop;electronic_dance;rap_hip_hop;heavy_metal;soul_funk;alternative;jazz;blue;blues,"1200-1800 s
+G≥5"
+E5,182607714,2400,3000,3,13931,15,8.675788,3000.0,11,60,0.1445964666666666,64.38609970000107,Feasible (not proven optimal),TimeLimit,False,True,True,rock;pop;electronic_dance;rap_hip_hop;heavy_metal;soul_funk;alternative;jazz;blue;blues;soundtrack,"2400-3000 s
+G≥3"
+E6,182607714,2400,3000,5,13931,15,8.675788,3000.0,11,60,0.1445964666666666,61.81536410000263,Feasible (not proven optimal),TimeLimit,False,True,True,rock;pop;electronic_dance;rap_hip_hop;heavy_metal;soul_funk;alternative;jazz;blue;blues;soundtrack,"2400-3000 s
+G≥5"
